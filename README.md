@@ -37,3 +37,7 @@ regras:
 - tolerancia de 10min para cancelar
 - intervalo de 10min entre um agendamento e outro
 - todos os dias 12h a 13h -> horário de almoço
+
+
+SERVICE -> Dita as regras das funcionalidades
+

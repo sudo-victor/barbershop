@@ -1,4 +1,4 @@
-import { ICustomer } from "../../domain/customer";
+import { ICustomer } from "../../entities/customer";
 
 export interface CreateCustomerInput {
   name: string;

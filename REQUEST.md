@@ -29,6 +29,7 @@ entidades:
 
 funcionalidades:
 - Cadastro do cliente
+- Login
 - Cliente fazer agendamento
 - Cancelamento do agendamento
 - Modificar o horário/dia agendamento
